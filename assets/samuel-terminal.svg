@@ -21,7 +21,7 @@
     </filter>
     <style>
       .mono { font-family: "Cascadia Code", "Fira Code", Consolas, "Courier New", monospace; }
-      .ascii { font-family: "Cascadia Mono", Consolas, "Courier New", monospace; font-size: 13px; fill: #59e391; letter-spacing: 0; }
+      .ascii { font-family: "Cascadia Mono", Consolas, "Courier New", monospace; font-size: 13px; fill: #f0f6fc; letter-spacing: 0; }
       .label { font-family: "Cascadia Code", Consolas, monospace; font-size: 17px; font-weight: 700; fill: #f0883e; }
       .value { font-family: "Cascadia Code", Consolas, monospace; font-size: 17px; fill: #c9d1d9; }
       .project { font-family: "Cascadia Code", Consolas, monospace; font-size: 16px; fill: #c9d1d9; }
@@ -94,16 +94,16 @@
   <text x="522" y="366" class="mono" font-size="16" font-weight="700" fill="#bc8cff">PROJECTS</text>
   <line x1="610" y1="360" x2="1142" y2="360" stroke="#30363d"/>
   <g class="project">
-    <text x="528" y="400" fill="#39d353">›</text><text x="552" y="400">Simulador de Inversores</text>
-    <text x="528" y="432" fill="#39d353">›</text><text x="552" y="432">Simu Comandos</text>
-    <text x="528" y="464" fill="#39d353">›</text><text x="552" y="464">AlignLab</text>
-    <text x="528" y="496" fill="#39d353">›</text><text x="552" y="496">Simulador de Fator de Potência</text>
-    <text x="528" y="528" fill="#39d353">›</text><text x="552" y="528">LimaMaint</text>
+    <text x="528" y="400" fill="#f0f6fc">›</text><text x="552" y="400">Simulador de Inversores</text>
+    <text x="528" y="432" fill="#f0f6fc">›</text><text x="552" y="432">Simu Comandos</text>
+    <text x="528" y="464" fill="#f0f6fc">›</text><text x="552" y="464">AlignLab</text>
+    <text x="528" y="496" fill="#f0f6fc">›</text><text x="552" y="496">Simulador de Fator de Potência</text>
+    <text x="528" y="528" fill="#f0f6fc">›</text><text x="552" y="528">LimaMaint</text>
   </g>
 
   <line x1="522" y1="566" x2="1142" y2="566" stroke="#30363d"/>
   <text x="522" y="602" class="mono" font-size="16" fill="#8b949e">STATUS</text>
-  <circle cx="604" cy="596" r="6" fill="#39d353" filter="url(#glow)"/>
+  <circle cx="604" cy="596" r="6" fill="#f0f6fc" filter="url(#glow)"/>
   <text x="620" y="602" class="mono" font-size="16" fill="#c9d1d9">building practical industrial tools</text>
   <text x="522" y="635" class="mono" font-size="14" fill="#58a6ff">$ automation --learn --simulate --evolve</text>
 </svg>
