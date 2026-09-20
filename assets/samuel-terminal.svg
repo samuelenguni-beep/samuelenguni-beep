@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel Lima — Industrial Automation Terminal</title>
+  <desc id="desc">Neofetch-style terminal card with an ASCII portrait generated from Samuel Lima's photo and professional information.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d14"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39d353"/>
+      <stop offset="0.52" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.018"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: "Cascadia Code", "Fira Code", Consolas, "Courier New", monospace; }
+      .ascii { font-family: "Cascadia Mono", Consolas, "Courier New", monospace; font-size: 13px; fill: #59e391; letter-spacing: 0; }
+      .label { font-family: "Cascadia Code", Consolas, monospace; font-size: 17px; font-weight: 700; fill: #f0883e; }
+      .value { font-family: "Cascadia Code", Consolas, monospace; font-size: 17px; fill: #c9d1d9; }
+      .project { font-family: "Cascadia Code", Consolas, monospace; font-size: 16px; fill: #c9d1d9; }
+    </style>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="664" rx="18" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <rect x="8" y="8" width="1184" height="664" rx="18" fill="url(#scan)"/>
+  <rect x="8" y="8" width="1184" height="48" rx="18" fill="#161b22"/>
+  <rect x="8" y="38" width="1184" height="18" fill="#161b22"/>
+  <circle cx="38" cy="32" r="7" fill="#ff5f56"/>
+  <circle cx="62" cy="32" r="7" fill="#ffbd2e"/>
+  <circle cx="86" cy="32" r="7" fill="#27c93f"/>
+  <text x="600" y="38" text-anchor="middle" class="mono" font-size="15" fill="#8b949e">samuel@industrial-automation:~</text>
+
+  <line x1="486" y1="78" x2="486" y2="620" stroke="#30363d" stroke-width="1"/>
+
+  <g class="ascii" filter="url(#glow)">
+    <text x="45" y="92" xml:space="preserve">
+      <tspan x="45" dy="0">                                          </tspan>
+      <tspan x="45" dy="15">                                          </tspan>
+      <tspan x="45" dy="15">                         .....            </tspan>
+      <tspan x="45" dy="15">             ...::------::......          </tspan>
+      <tspan x="45" dy="15">          ..:::-----====---::....         </tspan>
+      <tspan x="45" dy="15">         ..:::::-----=======--:.          </tspan>
+      <tspan x="45" dy="15">        ..::::::------==========:         </tspan>
+      <tspan x="45" dy="15">       :::::::-----========++===+:        </tspan>
+      <tspan x="45" dy="15">      -:::::::-----=======+++++=++.       </tspan>
+      <tspan x="45" dy="15">     .-:::::::---=-=========++++++:       </tspan>
+      <tspan x="45" dy="15">     .-:::::::--===+=====+++++++++-       </tspan>
+      <tspan x="45" dy="15">     .----==+**++++***###********++-==.   </tspan>
+      <tspan x="45" dy="15">    ..--====+*###*=+*###**#####*******:   </tspan>
+      <tspan x="45" dy="15">    ==--==++****+=-=+**********++****+.   </tspan>
+      <tspan x="45" dy="15">   .-+--:--==+=---:-=****+++++++++***+..  </tspan>
+      <tspan x="45" dy="15">   .:--::::-----:::--+***++====+++*##+:.  </tspan>
+      <tspan x="45" dy="15">   ..:=-::::-==--:--=+*****++++++**##+:.  </tspan>
+      <tspan x="45" dy="15">  ...:==---=+*+=++=+*###*********##%#=... </tspan>
+      <tspan x="45" dy="15">  ....=+==+**+===+***#########*##%%%#-... </tspan>
+      <tspan x="45" dy="15">  ....-**++****+++****###%%%%%##%%%%*:... </tspan>
+      <tspan x="45" dy="15">  .....-*****##++==++**#####%%%%%%%%=.... </tspan>
+      <tspan x="45" dy="15">  ......=##**#+--==+++*##**#%%@@@@%#+=-:. </tspan>
+      <tspan x="45" dy="15">  .......-#%##*+==+**###*##%%@@@@@%#***++ </tspan>
+      <tspan x="45" dy="15">  ...::---+#%%#*====+****#%%@@@@@%%####** </tspan>
+      <tspan x="45" dy="15">  --=++++====#*==+**####%%%@@@@%%%%####** </tspan>
+      <tspan x="45" dy="15">  +++*++==++:-**+*%%%%%%%%%@%%%%%%%###*** </tspan>
+      <tspan x="45" dy="15">   ++++++++++:-=*##%%%@@%%%%%%%%%####**#  </tspan>
+      <tspan x="45" dy="15">   ++*+++++**+--=++*#%%##***#########%%%  </tspan>
+      <tspan x="45" dy="15">   ++++++++**##=-==++*++++***###%%%%%%%%  </tspan>
+      <tspan x="45" dy="15">   ++++++++++***=-======++*##%%%%%%%%%%%  </tspan>
+      <tspan x="45" dy="15">    ==++++==++**##****###%%%%%%%%%%%%%%   </tspan>
+      <tspan x="45" dy="15">    ===+=====+**##%%%%%%%%#####%%%%%%%@   </tspan>
+      <tspan x="45" dy="15">     ==+++=====+**##****++**##%%%%%%@@    </tspan>
+      <tspan x="45" dy="15">     ==++++=======+++++++*****##%%%@@%    </tspan>
+    </text>
+  </g>
+
+  <text x="522" y="100" class="mono" font-size="21" font-weight="700" fill="#58a6ff">samuelenguni-beep</text>
+  <text x="746" y="100" class="mono" font-size="21" fill="#8b949e">@github</text>
+  <rect x="522" y="116" width="620" height="2" fill="url(#accent)"/>
+
+  <g>
+    <text x="522" y="154" class="label">NAME</text><text x="680" y="154" class="value">Samuel Lima</text>
+    <text x="522" y="186" class="label">ROLE</text><text x="680" y="186" class="value">Manutenção Elétrica &amp; Automação</text>
+    <text x="522" y="218" class="label">FOCUS</text><text x="680" y="218" class="value">CLP · IHM · Siemens TIA Portal</text>
+    <text x="522" y="250" class="label">DRIVES</text><text x="680" y="250" class="value">Siemens · WEG · Danfoss</text>
+    <text x="522" y="282" class="label">NETWORK</text><text x="680" y="282" class="value">Modbus · Redes Industriais</text>
+    <text x="522" y="314" class="label">MISSION</text><text x="680" y="314" class="value">Tecnologia aplicada ao aprendizado</text>
+  </g>
+
+  <text x="522" y="366" class="mono" font-size="16" font-weight="700" fill="#bc8cff">PROJECTS</text>
+  <line x1="610" y1="360" x2="1142" y2="360" stroke="#30363d"/>
+  <g class="project">
+    <text x="528" y="400" fill="#39d353">›</text><text x="552" y="400">Simulador de Inversores</text>
+    <text x="528" y="432" fill="#39d353">›</text><text x="552" y="432">Simu Comandos</text>
+    <text x="528" y="464" fill="#39d353">›</text><text x="552" y="464">AlignLab</text>
+    <text x="528" y="496" fill="#39d353">›</text><text x="552" y="496">Simulador de Fator de Potência</text>
+    <text x="528" y="528" fill="#39d353">›</text><text x="552" y="528">LimaMaint</text>
+  </g>
+
+  <line x1="522" y1="566" x2="1142" y2="566" stroke="#30363d"/>
+  <text x="522" y="602" class="mono" font-size="16" fill="#8b949e">STATUS</text>
+  <circle cx="604" cy="596" r="6" fill="#39d353" filter="url(#glow)"/>
+  <text x="620" y="602" class="mono" font-size="16" fill="#c9d1d9">building practical industrial tools</text>
+  <text x="522" y="635" class="mono" font-size="14" fill="#58a6ff">$ automation --learn --simulate --evolve</text>
+</svg>
